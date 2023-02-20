@@ -1,0 +1,13 @@
+Design UI
+
+- Admin, thống kê 	( Hùng )
+
+- Trang chủ 		( Hoàng )
+
+- Sản phẩm 		( Như )
+
+- Giỏ hàng 		( Khoa )
+
+deadline 13/3/2023: tối thiểu 40% UI
+
+Recommend khóa học: https://www.youtube.com/@HocFigmaThatDonGian/playlists
