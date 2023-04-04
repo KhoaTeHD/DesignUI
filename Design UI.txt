@@ -8,10 +8,19 @@ Design UI
 
 - Giỏ hàng 		( Khoa )
 
-+ deadline 13/3/2023: tối thiểu 40% UI
-
 + Recommend khóa học: https://www.youtube.com/@HocFigmaThatDonGian/playlists
 
 + Plugins: Material Symbols
 
 + Sử dụng Design Kit 3 của google
+
++ deadline 13/3/2023: tối thiểu 40% UI
+
++ deadline 2 (16/4/2023): hoàn thành 100% UI bao gồm cả prototype
+
+Lưu ý:
+
+- Mọi component,icon phải đưa vào thư viện ( file Library )
+
+- Tùy chỉ font chữ cũng phải cho vào thư viên
+
